@@ -19,6 +19,7 @@ This course is produced using state-of-the-art AI generation and video automatio
 
 - **Voice Generation & Cloning:** ElevenLabs / Descript (Custom Voice Model)
 - **Presentation & Visuals:** Marp (Markdown-to-Slides) / Canva & Keynote / Excalidraw / Manim
+- **Screen Capture & Demo Recording:** OBS Studio / Screen Studio / CleanShot X / Loom
 - **Video & Audio Synchronization:** HeyGen / Fliki AI / DaVinci Resolve & CapCut Desktop
 
 ---
