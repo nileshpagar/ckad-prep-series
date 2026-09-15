@@ -34,4 +34,5 @@ This course is produced using state-of-the-art AI generation and video automatio
 │   ├── phase-4-network/  # Service manifests & NetworkPolicies
 │   ├── phase-5-deploy/   # Rollout updates, StatefulSets, and Helm
 │   └── phase-6-debug/    # Health probes & ephemeral containers
-└── scripts/              # Automation and backlog management scripts
+
+[//]: # (└── scripts/              # Automation and backlog management scripts)
