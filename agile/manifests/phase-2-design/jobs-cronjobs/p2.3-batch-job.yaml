@@ -1,0 +1,15 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: batch-job-demo
+spec:
+  completions: 3
+  parallelism: 2
+  backoffLimit: 4
+  template:
+    spec:
+      containers:
+      - name: job-worker
+        image: busybox
+        command: ["sh", "-c", "echo Processing batch job... && sleep 3"]
+      restartPolicy: Never
